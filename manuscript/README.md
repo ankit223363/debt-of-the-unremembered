@@ -1,6 +1,6 @@
 # Manuscript
 
-Plain-text parts of *Debt of the Unremembered*: the Prologue and Chapters 1-69, five parts each, one paragraph per line. The first line of each file is the part title.
+Plain-text parts of *Debt of the Unremembered*: the Prologue and Chapters 1-96, five parts each, one paragraph per line. The first line of each file is the part title.
 
 | Folder | Parts | Words |
 |---|---|---|
@@ -74,3 +74,31 @@ Plain-text parts of *Debt of the Unremembered*: the Prologue and Chapters 1-69, 
 | ch67 | 5 | 20,316 |
 | ch68 | 5 | 20,177 |
 | ch69 | 5 | 20,208 |
+| ch70 | 5 | 20,318 |
+| ch71 | 5 | 20,241 |
+| ch72 | 5 | 20,140 |
+| ch73 | 5 | 20,208 |
+| ch74 | 5 | 20,175 |
+| ch75 | 5 | 20,328 |
+| ch76 | 5 | 20,315 |
+| ch77 | 5 | 20,220 |
+| ch78 | 5 | 20,196 |
+| ch79 | 5 | 20,208 |
+| ch80 | 5 | 20,189 |
+| ch81 | 5 | 22,227 |
+| ch82 | 5 | 20,536 |
+| ch83 | 5 | 20,264 |
+| ch84 | 5 | 20,304 |
+| ch85 | 5 | 20,795 |
+| ch86 | 5 | 20,177 |
+| ch87 | 5 | 20,222 |
+| ch88 | 5 | 20,174 |
+| ch89 | 5 | 20,162 |
+| ch90 | 5 | 20,149 |
+| ch91 | 5 | 22,545 |
+| ch92 | 5 | 20,585 |
+| ch93 | 5 | 20,175 |
+| ch94 | 5 | 20,129 |
+| ch95 | 5 | 20,126 |
+| ch96 | 5 | 20,434 |
+| **Total** | | **2,105,690** |
